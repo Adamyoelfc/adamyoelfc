@@ -13,8 +13,7 @@
 ## How to reach me:
 <a target="_blank" href="https://www.linkedin.com/in/adam-fernandez-330a011a8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
 <a href="mailto:adamyoelfc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a/>
-<a target="_blank" href="https://adamdev.me"><img src="https://img.shields.io/badge/-Portfolio-blue" /><a/>
- 
+### Portfolio: https://adamdev.me 
   <!-- COMMENTED:
   
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adamyoelfc&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
