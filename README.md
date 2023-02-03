@@ -1,7 +1,7 @@
 
 
 ## 👾  About Me
-  #### About 3 years working with technologies like Python - Django, JavaScript, git-GitHub... and other javascript framework like vue.js, now learning react.js etc...
+  #### About 3 years working with technologies like Python - Django, JavaScript, git-GitHub... and other javascript framework like vue.js, react.js etc...
   
    - 👨‍💻  Love for tech and innovation.
    - 💓  Passionate with problem solving and automation.
